@@ -2,7 +2,7 @@
 
 Este repositório contém códigos simples em Assembly (MIPS), feitos como parte da disciplina de **Sistemas Ciberfísicos**.
 
-O objetivo é entender os fundamentos de baixo nível da computação e aproximar os conceitos de hardware e software. O foco é didático, para iniciantes, e os códigos são executados em simuladores como **MARS** ou **QtSPIM**.
+O objetivo é entender os fundamentos de baixo nível da computação e aproximar os conceitos de hardware e software. O foco é didático, para iniciantes, e os códigos são executados em simuladores como **MARS**.
 
 ## ✅ Conteúdo
 
